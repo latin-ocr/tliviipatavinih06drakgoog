@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih06drakgoog_0842.png"; bbox 0 0 2716 4640; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 764 339 1312 495">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 764 339 1312 495">
+     <span class='ocr_line' id='line_1_1' title="bbox 764 339 1312 495; baseline 0 -79"><span class='ocrx_word' id='word_1_1' title='bbox 764 339 789 416; x_wconf 85' lang='grc'>3</span> <span class='ocrx_word' id='word_1_2' title='bbox 821 341 931 416; x_wconf 90' lang='grc'>2044</span> <span class='ocrx_word' id='word_1_3' title='bbox 963 341 1037 416; x_wconf 89' lang='grc'>051</span> <span class='ocrx_word' id='word_1_4' title='bbox 1077 341 1158 416; x_wconf 88' lang='grc'>725</span> <span class='ocrx_word' id='word_1_5' title='bbox 1175 340 1273 495; x_wconf 87' lang='grc'>547</span> <span class='ocrx_word' id='word_1_6' title='bbox 1307 445 1312 450; x_wconf 29' lang='grc'><strong>-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1362 4640">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1362 4640">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1362 4640; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1362 4640; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
